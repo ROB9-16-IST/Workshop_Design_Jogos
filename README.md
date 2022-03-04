@@ -5,3 +5,4 @@
 ### A atividade consiste numa apresentação powerpoint inicial para quebrar o gelo, motivar os alunos e demonstrar o que vai ser feito. E de seguida uma parte prática aonde os alunos fazem o seu próprio jogo usando Game Maker Studio 2. 
 
 
+![gameplay example](Misc/gameplay_example.png)
